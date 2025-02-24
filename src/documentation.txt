@@ -1,0 +1,9 @@
+Documentation
+Caesar Cipher :
+A simple substitution cipher where each letter in the plaintext is shifted by a fixed number of positions down the alphabet.
+Example: Shift of 3 → A → D, B → E, etc.
+Vigenère Cipher :
+A more advanced substitution cipher that uses a keyword to determine the shift for each letter.
+Example: Key = key → A → K, B → E, etc., repeating the key as needed.
+Usage :
+Run the program and follow the prompts to select the cipher type, input text, and specify encryption/decryption options.
