@@ -1,0 +1,13 @@
+Example Output
+Case 1: Caesar Cipher
+Input: HelloWorld, Shift: 3
+Encrypted Output: KhoorZruog
+Decrypted Output: HelloWorld
+Case 2: Vigenère Cipher
+Input: ThisIsASecretMessage, Key: key
+Encrypted Output: DlcxQwKGsgfhpOiywiim
+Decrypted Output: ThisIsASecretMessage
+Case 3: Mixed Example
+Input: AttackAtDawn, Key: lemon (Vigenère)
+Encrypted Output: LxfopvEhTwir
+Decrypted Output: AttackAtDawn
